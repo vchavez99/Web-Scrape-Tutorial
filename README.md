@@ -7,6 +7,7 @@ This script will web-scrape Wes Anderson's Wikipedia page and extract the text f
 >
 >2 Film career
 >
+>
 >2.1 1990s
 >
 >2.2 2000s
@@ -16,6 +17,7 @@ This script will web-scrape Wes Anderson's Wikipedia page and extract the text f
 >2.4 2020s
 >
 >3 Directing techniques
+>
 >
 >3.1 Themes and stories
 >
