@@ -4,25 +4,38 @@ This script will web-scrape Wes Anderson's Wikipedia page and extract the text f
 >Contents
 >
 >1 Early life
+>
 >2 Film career
 >
 >2.1 1990s
+>
 >2.2 2000s
+>
 >2.3 2010s
+>
 >2.4 2020s
 >
 >3 Directing techniques
 >
 >3.1 Themes and stories
+>
 >3.2 Visual style
+>
 >3.3 Soundtracks
 >
 >
 >4 Personal life
+>
 >5 Filmography
+>
 >6 Awards and nominations
+>
 >7 In popular culture
+>
 >8 Recurring collaborators
+>
 >9 Further reading
+>
 >10 References
+>
 >11 External links
