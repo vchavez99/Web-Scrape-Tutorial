@@ -6,10 +6,10 @@ This script will web-scrape Wes Anderson's Wikipedia page and extract the text f
 >1 Early life
 >2 Film career
 >
->2.1 1990s<>
->4.2 2000s
->5.3 2010s
->6.4 2020s
+>2.1 1990s
+>2.2 2000s
+>2.3 2010s
+>2.4 2020s
 >
 >3 Directing techniques
 >
